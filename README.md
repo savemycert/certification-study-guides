@@ -12,6 +12,7 @@ Maintained by [SaveMyCert](https://www.savemycert.com/?utm_source=github&utm_med
 | DEA-C01 | [AWS Certified Data Engineer – Associate](https://www.savemycert.com/certifications/aws-data-engineer-associate/?utm_source=github&utm_medium=readme&utm_campaign=certification-study-guides) | Associate | [dea-c01-study-guide](https://github.com/savemycert/dea-c01-study-guide) |
 | SAA-C03 | [AWS Certified Solutions Architect – Associate](https://www.savemycert.com/certifications/aws-solutions-architect-associate/?utm_source=github&utm_medium=readme&utm_campaign=certification-study-guides) | Associate | [saa-c03-study-guide](https://github.com/savemycert/saa-c03-study-guide) |
 | SCS-C03 | [AWS Certified Security – Specialty](https://www.savemycert.com/certifications/aws-security-specialty/?utm_source=github&utm_medium=readme&utm_campaign=certification-study-guides) | Specialty | [scs-c03-study-guide](https://github.com/savemycert/scs-c03-study-guide) |
+| SOA-C03 | [AWS Certified CloudOps Engineer – Associate](https://www.savemycert.com/certifications/aws-cloudops-engineer-associate/?utm_source=github&utm_medium=readme&utm_campaign=certification-study-guides) | Associate | [soa-c03-study-guide](https://github.com/savemycert/soa-c03-study-guide) |
 
 ## Microsoft Azure
 
